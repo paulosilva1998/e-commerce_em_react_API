@@ -12,7 +12,7 @@ gerenciamento de estados em componentes funcionais.
 - Estilização em CSS (CSS Modules, styled-components)
 - APIs
 
-## Imagens 
+## Imagens :
 
 ![Captura de tela 2025-02-10 112237](https://github.com/user-attachments/assets/f693f8b2-04e5-4939-8b05-397df37f6bdf)
 ![Captura de tela 2025-02-10 112257](https://github.com/user-attachments/assets/b36b701f-8552-41ea-935f-69c7a26f0388)
