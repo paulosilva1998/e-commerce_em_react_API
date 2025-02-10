@@ -1,4 +1,4 @@
-# E-commerce_em_react_API
+# E-commerce em react e APIs
 
 Esse foi um projeto de faculdade que nós tínhamos que desenvolver uma aplicação web de 
 e-commerce em React utilizando a Fake Store API, incluindo operações de criação e exclusão de 
