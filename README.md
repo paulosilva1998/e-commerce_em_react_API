@@ -2,7 +2,7 @@
 
 Esse foi um projeto de faculdade que nós tínhamos que desenvolver uma aplicação web de 
 e-commerce em React utilizando a Fake Store API, incluindo operações de criação e exclusão de 
-produtos. O projeto deverá demonstrar conhecimento em formulários, navegação entre páginas, 
+produtos. Assim, demonstrando conhecimento em formulários, navegação entre páginas, 
 configuração de rotas, integração com APIs, manipulação de dados, estilização de componentes e 
 gerenciamento de estados em componentes funcionais.
 
