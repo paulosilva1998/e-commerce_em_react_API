@@ -23,3 +23,6 @@ gerenciamento de estados em componentes funcionais.
 ![Captura de tela 2025-02-10 112438](https://github.com/user-attachments/assets/0f9ac2eb-bf43-42c9-8158-f3a0f68a9800)
 
 ## Vídeo rodando e usando o site!!
+
+https://github.com/user-attachments/assets/5b30a750-9813-4612-9993-86093ae12d3b
+
